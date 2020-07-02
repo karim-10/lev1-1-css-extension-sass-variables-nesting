@@ -1,0 +1,37 @@
+ul {
+  list-style: none;
+  display: flex;
+  font-size: 50px;
+}
+ul li {
+  padding: 30px;
+}
+ul li:nth-of-type(1) i {
+  color: #1da1f2;
+}
+ul li:nth-of-type(2) i {
+  color: #1769ff;
+}
+ul li:nth-of-type(3) i {
+  color: #3b5998;
+}
+ul li:nth-of-type(4) i {
+  color: #ff9900;
+}
+ul li:nth-of-type(5) i {
+  background-color: #fffc00;
+  border-radius: 50%;
+  font-size: 50px;
+  color: white;
+}
+ul li:nth-of-type(6) i {
+  color: #a4c639;
+}
+ul li:nth-of-type(7) i {
+  color: #4078c0;
+}
+ul li:nth-of-type(8) i {
+  color: #f7df1e;
+}
+
+/*# sourceMappingURL=style.css.map */
